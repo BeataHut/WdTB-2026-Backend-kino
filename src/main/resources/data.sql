@@ -2,8 +2,8 @@
 -- LAB 01: dopiszcie tu konta wszystkich osób z zespołu (reguła R1.03).
 -- LAB 02: dopiszcie dane do swoich tabel (kolejność: najpierw tabele, na które wskazują klucze obce).
 insert into user_account (email, display_name, role, created_at) values
-    ('ola@student.merito.pl',   'Ola',   'USER',    current_timestamp),
-    ('kuba@student.merito.pl',  'Kuba',  'USER',    current_timestamp),
+    ('wrx81689@student.wroclaw.merito.pl',   'Beata',   'USER',    current_timestamp),
+    ('wrx81700@student.wroclaw.merito.pl',  'Jakub',  'USER',    current_timestamp),
     ('firma@example.com',       'Firma', 'PARTNER', current_timestamp),
     ('admin@example.com',       'Admin', 'ADMIN',   current_timestamp);
 
